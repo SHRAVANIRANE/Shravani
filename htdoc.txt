@@ -3,6 +3,6 @@
 <title>WELCOME</title>
 </head>
 <body>
-<h1>7175</h1>
+<h1>CS 7175</h1>
 </body>
 </html>
